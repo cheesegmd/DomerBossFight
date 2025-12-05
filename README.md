@@ -3,7 +3,8 @@ fight domer
 
 # How to Install:
 how to install domer
-## 1. download the domer
+## 1. download the domer 
+ - domer assumes you have vscode and python
  - download the domer
  - drop the domer into vscode path
 ## 2. install and fix stuff
