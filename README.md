@@ -7,5 +7,5 @@ how to install domer
  - download the domer
  - drop the domer into vscode path
 ## 2. install and fix stuff
- - in vscode terminal, run `pip install pygame, random, time, numpy`
+ - in vscode terminal, run `pip install pygame, numpy`
  - in *domer.py*, set the *defpath* variable to the path **to** the vscode path.
